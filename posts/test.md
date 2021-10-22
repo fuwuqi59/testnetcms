@@ -1,4 +1,6 @@
 ---
 title: test
 ---
-test 123
+test
+
+![](/media_folder/rabbit.png)
